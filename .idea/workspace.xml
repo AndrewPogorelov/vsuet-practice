@@ -5,15 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3bbd3d98-f7bc-4eb6-b869-231c80a025ad" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Практика №3/Код/3_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Практика №3/Код/3_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Практика №3/Код/3_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Практика №3/Код/3_4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Практика №3/Код/3_5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Практика №3/Код/3_6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Практика №3/Код/3_7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Практика №3/Код/3_8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Практика №3/Код/3_9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Практика №2/9variant.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,29 +48,7 @@
       <recent name="C:\Users\PogorelovJS\Desktop\Практика\Практика №3\Код" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.3_9">
-    <configuration name="3_5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Практика" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Практика №3/Код" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Практика №3/Код/3_5.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.9variant">
     <configuration name="3_6" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Практика" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -167,13 +137,35 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="9variant" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Практика" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Практика №2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Практика №2/9variant.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.9variant" />
         <item itemvalue="Python.3_9" />
         <item itemvalue="Python.3_8" />
         <item itemvalue="Python.3_7" />
         <item itemvalue="Python.3_6" />
-        <item itemvalue="Python.3_5" />
       </list>
     </recent_temporary>
   </component>
@@ -188,6 +180,7 @@
       <workItem from="1663789259033" duration="1106000" />
       <workItem from="1663931167735" duration="3268000" />
       <workItem from="1664244450399" duration="4418000" />
+      <workItem from="1664258945649" duration="1905000" />
     </task>
     <servers />
   </component>
@@ -213,6 +206,7 @@
     <SUITE FILE_PATH="coverage/2_7_py$3_7.coverage" NAME="3_7 Coverage Results" MODIFIED="1664248414676" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Практика №3/Код" />
     <SUITE FILE_PATH="coverage/2_7_py$3_5.coverage" NAME="3_5 Coverage Results" MODIFIED="1664247957323" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Практика №3/Код" />
     <SUITE FILE_PATH="coverage/$1_2.coverage" NAME="1_2 Coverage Results" MODIFIED="1664241893399" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Практика №1/Код" />
+    <SUITE FILE_PATH="coverage/2_7_py$9variant.coverage" NAME="9variant Coverage Results" MODIFIED="1664269458186" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Практика №2" />
     <SUITE FILE_PATH="coverage/$1_6.coverage" NAME="1_6 Coverage Results" MODIFIED="1664244173841" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Практика №1/Код" />
     <SUITE FILE_PATH="coverage/2_7_py$3_8.coverage" NAME="3_8 Coverage Results" MODIFIED="1664248605364" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Практика №3/Код" />
     <SUITE FILE_PATH="coverage/$1_1.coverage" NAME="1_1 Coverage Results" MODIFIED="1664241712541" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Практика №1/Код" />
