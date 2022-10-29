@@ -5,29 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3bbd3d98-f7bc-4eb6-b869-231c80a025ad" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Практика №4/Код/4_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Практика №4/Код/4_10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Практика №4/Код/4_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Практика №4/Код/4_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Практика №4/Код/4_4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Практика №4/Код/4_5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Практика №4/Код/4_6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Практика №4/Код/4_7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Практика №4/Код/4_8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Практика №4/Код/4_9.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Практика №4/Скрины/Задача1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Практика №4/Скрины/Задача2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Практика №4/Скрины/Задача3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Практика №4/Скрины/Задача4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Практика №4/Скрины/Задача5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Практика №4/Скрины/Задача6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Практика №4/Скрины/Задача7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Практика №4/Скрины/Задача8.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Практика №5/Код/5_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Практика №5/Код/5_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Практика №5/Код/5_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Практика №5/Код/5_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Практика №5/Код/5_5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Практика №5/Код/5_6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Практика №5/Код/5_7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Практика №5/Код/5_8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Практика №6/Код/6_9.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Практика.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Практика.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +45,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/PogorelovJS/Desktop/Практика/Практика №4/Код",
+    "last_opened_file_path": "C:/Users/PogorelovJS/Desktop/Практика/Практика №5/Код/5_3.py",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -71,8 +58,8 @@
       <recent name="C:\Users\PogorelovJS\Desktop\Практика\Практика №3\Код" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.4_10 (1)">
-    <configuration name="4_10 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.5_8">
+    <configuration name="5_4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Практика" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -80,11 +67,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Практика №4/Код" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Практика №5/Код" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Практика №4/Код/4_10.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Практика №5/Код/5_4.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -93,7 +80,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="4_6" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="5_5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Практика" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -101,11 +88,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Практика №4/Код" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Практика №5/Код" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Практика №4/Код/4_6.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Практика №5/Код/5_5.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -114,7 +101,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="4_7" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="5_6" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Практика" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -122,11 +109,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Практика №4/Код" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Практика №5/Код" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Практика №4/Код/4_7.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Практика №5/Код/5_6.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -135,7 +122,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="4_8" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="5_7" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Практика" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -143,11 +130,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Практика №4/Код" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Практика №5/Код" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Практика №4/Код/4_8.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Практика №5/Код/5_7.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -156,7 +143,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="4_9" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="5_8" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Практика" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -164,11 +151,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Практика №4/Код" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Практика №5/Код" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Практика №4/Код/4_9.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Практика №5/Код/5_8.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -179,11 +166,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.4_10 (1)" />
-        <item itemvalue="Python.4_9" />
-        <item itemvalue="Python.4_8" />
-        <item itemvalue="Python.4_7" />
-        <item itemvalue="Python.4_6" />
+        <item itemvalue="Python.5_8" />
+        <item itemvalue="Python.5_7" />
+        <item itemvalue="Python.5_6" />
+        <item itemvalue="Python.5_5" />
+        <item itemvalue="Python.5_4" />
       </list>
     </recent_temporary>
   </component>
