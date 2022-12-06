@@ -1,18 +1,17 @@
-<<<<<<< HEAD
 
-=======
 # Вариант №9
 # Из заданного числа вычли сумму его цифр. Из результата вновь вычли сумму его цифр и т.д.
 # Через сколько таких операция получится нуль?
 
-numb=int(input('Введите число:'))
-k=0
-while numb>0:
-    s=0
-    h=str(numb)
-    for i in h:
-        s+=int(i)
-    numb-=s
-    k+=1
-print(k)
->>>>>>> 7f0b5c96c5a0cf54d2c0fa0658ea39d347738f0b
+def l():
+    numb=int(input('Введите число:'))
+    k=0
+    while numb>0:
+        s=0
+        h=str(numb)
+        for i in h:
+            s+=int(i)
+        numb-=s
+        k+=1
+    print(k)
+l()

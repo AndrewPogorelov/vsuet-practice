@@ -3,11 +3,12 @@
 # затем вводится ровно N целых чисел.
 # Постройте решение так,
 # чтобы использовалось минимально количество переменных.
-
-N = int(input("Введите количество чисел: "))
-count_number = 0
-sum_number = 0
-while count_number < N:
-    sum_number += int(input("Введите " + str(count_number+1) + "-е число: " ))
-    count_number += 1
-print(sum_number)
+def l():
+    N = int(input("Введите количество чисел: "))
+    count_number = 0
+    sum_number = 0
+    while count_number < N:
+        sum_number += int(input("Введите " + str(count_number+1) + "-е число: " ))
+        count_number += 1
+    print(sum_number)
+l()
